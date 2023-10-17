@@ -1,0 +1,1 @@
+# Django implementation of Map2LGD
